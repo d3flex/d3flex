@@ -10,9 +10,6 @@ My interests are not limited on the OpenQA space and in my free time i try to ex
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d3flex&theme=github_dark&layout=compact&langs_count=8&hide=Makefile,Groff)
 
 ## Projects i currently work on
-<a href="https://github-readme-stats.vercel.app/api/pin?username=d3flex&repo=os-autoinst-distri-opensuse&theme=dark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=d3flex&repo=os-autoinst-distri-opensuse&theme=dark" />
-</a>
 <a href="https://github-readme-stats.vercel.app/api/pin?username=d3flex&repo=openQA&theme=dark">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=d3flex&repo=openQA&theme=dark" />
 </a>
