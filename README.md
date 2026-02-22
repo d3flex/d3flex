@@ -1,11 +1,4 @@
-## Projects I currently work on                                                                                                               
-                                                                                                                                                
-  [![openQA](https://img.shields.io/badge/openQA-contributor-blue?style=for-the-badge)](https://github.com/os-autoinst/openQA)                  
-  [![tblame](https://img.shields.io/badge/tblame-active-green?style=for-the-badge)](https://codeberg.org/d3flex/tblame)                         
-
-❯ now put the full readme together                                                                                                              
-                                   
-● ### Welcome to my code space                                                                                                                  
+### Welcome to my code space                                                                                                                  
               
   I'm **d3flex**, a Software Engineer at SUSE.                                                                                                  
                                                                                                                                                 
@@ -37,6 +30,6 @@
   [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jbonatakis/)
   [![reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/d3flex)
   [![stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/1462096/d3flex)
-    [![hackerrank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/iob0001)
+  [![hackerrank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/iob0001)
   [![codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/iob)
   [![codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/0x07bb)
