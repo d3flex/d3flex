@@ -2,10 +2,8 @@
               
   I'm **d3flex**, a Software Engineer at SUSE.                                                                                                  
                                                                                                                                                 
-  I work across a range of areas — from kernel and HPC to containers and public cloud infrastructure, including work on MicroOS and related     
-  tooling. Beyond my day job, I enjoy expanding into new territory: whether that's hacking my system, contributing to projects that catch my    
-  interest, or exploring new domains entirely. Things you might find here include Django projects, compilers, AI tools, scripts, and config
-  files.
+  By day I work on openQA, the engine that keeps SUSE's Linux distributions honest. By night I follow whatever rabbit hole looks deepest: security, compilers, AI tooling, a stubborn Emacs config.
+  This profile is mostly the night shift: Django projects, compilers, AI tools, scripts, dotfiles, side projects and experimentation.
 
   ## Projects I currently work on
 
