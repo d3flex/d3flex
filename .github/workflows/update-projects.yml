@@ -26,3 +26,25 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git commit -am "Update recent projects"
           git push
+
+  codeberg:
+    runs-on: ubuntu-latest
+    env:
+      CODEBERG_TOKEN: ${{ secrets.CODEBERG_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Update Codeberg profile
+        if: env.CODEBERG_TOKEN != ''
+        run: |
+          git clone "https://fleax:${CODEBERG_TOKEN}@codeberg.org/fleax/.profile.git" profile
+          python .github/scripts/update_codeberg.py profile
+          cd profile
+          git add README.md contributions.svg
+          git diff --cached --quiet && exit 0
+          git config user.name "fleax"
+          git config user.email "ybonatakis@suse.com"
+          git commit -m "Update Codeberg activity"
+          git push
