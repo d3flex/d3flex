@@ -15,7 +15,11 @@ My story with computers started early. When Linux arrived in 2000, I became inte
 
 ## Projects I currently work on
 
-  [![fleet](https://img.shields.io/badge/Fleet-contributor-blue?style=for-the-badge)](https://github.com/rancher/fleet)
+<!-- GH-PROJECTS:START -->
+  [![rancher/fleet](https://img.shields.io/badge/fleet-active-blue?style=for-the-badge)](https://github.com/rancher/fleet)
+  [![rancher/fleet-product-docs](https://img.shields.io/badge/fleet--product--docs-active-blue?style=for-the-badge)](https://github.com/rancher/fleet-product-docs)
+  [![rancher/private-registry-product-docs](https://img.shields.io/badge/private--registry--product--docs-active-blue?style=for-the-badge)](https://github.com/rancher/private-registry-product-docs)
+<!-- GH-PROJECTS:END -->
   [![mforge](https://img.shields.io/badge/mforge-active-green?style=for-the-badge)](https://codeberg.org/fleax/mforge)
   
   ## Tools
