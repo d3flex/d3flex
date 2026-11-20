@@ -18,6 +18,7 @@ My story with computers started early. When Linux arrived in 2000, I became inte
 <!-- GH-PROJECTS:START -->
   [![rancher/fleet](https://img.shields.io/badge/fleet-active-blue?style=for-the-badge)](https://github.com/rancher/fleet)
   [![rancher/fleet-product-docs](https://img.shields.io/badge/fleet--product--docs-active-blue?style=for-the-badge)](https://github.com/rancher/fleet-product-docs)
+  [![rancher/charts](https://img.shields.io/badge/charts-active-blue?style=for-the-badge)](https://github.com/rancher/charts)
 <!-- GH-PROJECTS:END -->
   [![mforge](https://img.shields.io/badge/mforge-active-green?style=for-the-badge)](https://codeberg.org/fleax/mforge)
   
